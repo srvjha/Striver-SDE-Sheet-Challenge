@@ -1,1 +1,1 @@
-# Striver-s-SDE-Sheet-Challenge
+# Striver-SDE-Sheet-Challenge
